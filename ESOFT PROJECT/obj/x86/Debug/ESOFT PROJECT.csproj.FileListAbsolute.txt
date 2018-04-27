@@ -1,0 +1,90 @@
+C:\Users\USER\Desktop\PROJECT\ESOFT PROJECT\ESOFT PROJECT\bin\Debug\ESOFT PROJECT.exe
+C:\Users\USER\Desktop\PROJECT\ESOFT PROJECT\ESOFT PROJECT\bin\Debug\ESOFT PROJECT.pdb
+C:\Users\USER\Desktop\PROJECT\ESOFT PROJECT\ESOFT PROJECT\obj\x86\Debug\ESOFT_PROJECT.frmhomepage.resources
+C:\Users\USER\Desktop\PROJECT\ESOFT PROJECT\ESOFT PROJECT\obj\x86\Debug\ESOFT_PROJECT.frmstaffdetails.resources
+C:\Users\USER\Desktop\PROJECT\ESOFT PROJECT\ESOFT PROJECT\obj\x86\Debug\ESOFT_PROJECT.Properties.Resources.resources
+C:\Users\USER\Desktop\PROJECT\ESOFT PROJECT\ESOFT PROJECT\obj\x86\Debug\ESOFT PROJECT.csproj.GenerateResource.Cache
+C:\Users\USER\Desktop\PROJECT\ESOFT PROJECT\ESOFT PROJECT\obj\x86\Debug\ESOFT PROJECT.exe
+C:\Users\USER\Desktop\PROJECT\ESOFT PROJECT\ESOFT PROJECT\obj\x86\Debug\ESOFT PROJECT.pdb
+C:\Users\USER\Desktop\PROJECT\ESOFT PROJECT\ESOFT PROJECT\obj\x86\Debug\ESOFT_PROJECT.frmloginpage.resources
+C:\Users\USER\Desktop\PROJECT\ESOFT PROJECT\ESOFT PROJECT\obj\x86\Debug\ESOFT_PROJECT.frmstaffdetails_O.resources
+C:\Users\USER\Desktop\PROJECT\ESOFT PROJECT\ESOFT PROJECT\obj\x86\Debug\ESOFT PROJECT.csprojResolveAssemblyReference.cache
+C:\Users\USER\Desktop\PROJECT\ESOFT PROJECT\ESOFT PROJECT\obj\x86\Debug\ESOFT_PROJECT.frmcashier.resources
+C:\Users\USER\Desktop\PROJECT\ESOFT PROJECT\ESOFT PROJECT\obj\x86\Debug\ESOFT_PROJECT.frmuser_selection.resources
+C:\Users\USER\Desktop\PROJECT\ESOFT PROJECT\ESOFT PROJECT\obj\x86\Debug\ESOFT_PROJECT.frmlogin.resources
+C:\Users\USER\Desktop\PROJECT\ESOFT PROJECT\ESOFT PROJECT\obj\x86\Debug\ESOFT_PROJECT.frmstoredetails.resources
+C:\Users\USER\Desktop\PROJECT\ESOFT PROJECT\ESOFT PROJECT\obj\x86\Debug\ESOFT_PROJECT.frmstore.resources
+C:\Users\USER\Desktop\PROJECT\ESOFT PROJECT\ESOFT PROJECT\bin\Debug\Database1.mdf
+C:\Users\USER\Desktop\PROJECT\ESOFT PROJECT\ESOFT PROJECT\bin\Debug\Database1_log.ldf
+C:\Users\USER\Desktop\PROJECT\ESOFT PROJECT\ESOFT PROJECT\obj\x86\Debug\ESOFT_PROJECT.frmStaffdetals_personal.resources
+C:\Users\USER\Desktop\PROJECT\ESOFT PROJECT\ESOFT PROJECT\obj\x86\Debug\ESOFT_PROJECT.frmlogin_cash.resources
+C:\Users\USER\Desktop\PROJECT\ESOFT PROJECT\ESOFT PROJECT\obj\x86\Debug\ESOFT_PROJECT.frmlogin_storekeeper.resources
+C:\Users\USER\Desktop\ESOFT PROJECT\ESOFT PROJECT\obj\x86\Debug\ESOFT PROJECT.exe
+C:\Users\USER\Desktop\ESOFT PROJECT\ESOFT PROJECT\obj\x86\Debug\ESOFT PROJECT.pdb
+C:\Users\USER\Desktop\ESOFT PROJECT\ESOFT PROJECT\bin\Debug\Database1.mdf
+C:\Users\USER\Desktop\ESOFT PROJECT\ESOFT PROJECT\bin\Debug\Database1_log.ldf
+C:\Users\USER\Desktop\ESOFT PROJECT\ESOFT PROJECT\bin\Debug\ESOFT PROJECT.exe
+C:\Users\USER\Desktop\ESOFT PROJECT\ESOFT PROJECT\bin\Debug\ESOFT PROJECT.pdb
+C:\Users\USER\Desktop\ESOFT PROJECT\ESOFT PROJECT\obj\x86\Debug\ESOFT PROJECT.csprojResolveAssemblyReference.cache
+C:\Users\USER\Desktop\ESOFT PROJECT\ESOFT PROJECT\obj\x86\Debug\ESOFT_PROJECT.frmhomepage.resources
+C:\Users\USER\Desktop\ESOFT PROJECT\ESOFT PROJECT\obj\x86\Debug\ESOFT_PROJECT.frmStaffdetals_personal.resources
+C:\Users\USER\Desktop\ESOFT PROJECT\ESOFT PROJECT\obj\x86\Debug\ESOFT_PROJECT.frmlogin_cash.resources
+C:\Users\USER\Desktop\ESOFT PROJECT\ESOFT PROJECT\obj\x86\Debug\ESOFT_PROJECT.frmlogin_storekeeper.resources
+C:\Users\USER\Desktop\ESOFT PROJECT\ESOFT PROJECT\obj\x86\Debug\ESOFT_PROJECT.frmstaffdetails.resources
+C:\Users\USER\Desktop\ESOFT PROJECT\ESOFT PROJECT\obj\x86\Debug\ESOFT_PROJECT.frmloginpage.resources
+C:\Users\USER\Desktop\ESOFT PROJECT\ESOFT PROJECT\obj\x86\Debug\ESOFT_PROJECT.frmstoredetails.resources
+C:\Users\USER\Desktop\ESOFT PROJECT\ESOFT PROJECT\obj\x86\Debug\ESOFT_PROJECT.frmstore.resources
+C:\Users\USER\Desktop\ESOFT PROJECT\ESOFT PROJECT\obj\x86\Debug\ESOFT_PROJECT.frmstaffdetails_O.resources
+C:\Users\USER\Desktop\ESOFT PROJECT\ESOFT PROJECT\obj\x86\Debug\ESOFT_PROJECT.frmcashier.resources
+C:\Users\USER\Desktop\ESOFT PROJECT\ESOFT PROJECT\obj\x86\Debug\ESOFT_PROJECT.frmuser_selection.resources
+C:\Users\USER\Desktop\ESOFT PROJECT\ESOFT PROJECT\obj\x86\Debug\ESOFT_PROJECT.frmlogin.resources
+C:\Users\USER\Desktop\ESOFT PROJECT\ESOFT PROJECT\obj\x86\Debug\ESOFT_PROJECT.Properties.Resources.resources
+C:\Users\USER\Desktop\ESOFT PROJECT\ESOFT PROJECT\obj\x86\Debug\ESOFT PROJECT.csproj.GenerateResource.Cache
+C:\Users\USER\Desktop\ESOFT PROJECT\ESOFT PROJECT\obj\x86\Debug\ESOFT_PROJECT.frmmanagement.resources
+C:\Users\USER\Desktop\ESOFT PROJECT\ESOFT PROJECT\obj\x86\Debug\ESOFT_PROJECT.frmsearch.resources
+C:\Users\USER\Desktop\New Esoft Project\ESOFT PROJECT\obj\x86\Debug\ESOFT PROJECT.exe
+C:\Users\USER\Desktop\New Esoft Project\ESOFT PROJECT\obj\x86\Debug\ESOFT PROJECT.pdb
+C:\Users\USER\Desktop\New Esoft Project\ESOFT PROJECT\obj\x86\Debug\ESOFT PROJECT.csprojResolveAssemblyReference.cache
+C:\Users\USER\Desktop\New Esoft Project\ESOFT PROJECT\obj\x86\Debug\ESOFT_PROJECT.frmmanagement.resources
+C:\Users\USER\Desktop\New Esoft Project\ESOFT PROJECT\obj\x86\Debug\ESOFT_PROJECT.frmsearch.resources
+C:\Users\USER\Desktop\New Esoft Project\ESOFT PROJECT\obj\x86\Debug\ESOFT_PROJECT.frmhomepage.resources
+C:\Users\USER\Desktop\New Esoft Project\ESOFT PROJECT\obj\x86\Debug\ESOFT_PROJECT.frmStaffdetals_personal.resources
+C:\Users\USER\Desktop\New Esoft Project\ESOFT PROJECT\obj\x86\Debug\ESOFT_PROJECT.frmlogin_cash.resources
+C:\Users\USER\Desktop\New Esoft Project\ESOFT PROJECT\obj\x86\Debug\ESOFT_PROJECT.frmlogin_storekeeper.resources
+C:\Users\USER\Desktop\New Esoft Project\ESOFT PROJECT\obj\x86\Debug\ESOFT_PROJECT.frmstaffdetails.resources
+C:\Users\USER\Desktop\New Esoft Project\ESOFT PROJECT\obj\x86\Debug\ESOFT_PROJECT.frmloginpage.resources
+C:\Users\USER\Desktop\New Esoft Project\ESOFT PROJECT\obj\x86\Debug\ESOFT_PROJECT.frmstoredetails.resources
+C:\Users\USER\Desktop\New Esoft Project\ESOFT PROJECT\obj\x86\Debug\ESOFT_PROJECT.frmstore.resources
+C:\Users\USER\Desktop\New Esoft Project\ESOFT PROJECT\obj\x86\Debug\ESOFT_PROJECT.frmstaffdetails_O.resources
+C:\Users\USER\Desktop\New Esoft Project\ESOFT PROJECT\obj\x86\Debug\ESOFT_PROJECT.frmcashier.resources
+C:\Users\USER\Desktop\New Esoft Project\ESOFT PROJECT\obj\x86\Debug\ESOFT_PROJECT.frmuser_selection.resources
+C:\Users\USER\Desktop\New Esoft Project\ESOFT PROJECT\obj\x86\Debug\ESOFT_PROJECT.frmlogin.resources
+C:\Users\USER\Desktop\New Esoft Project\ESOFT PROJECT\obj\x86\Debug\ESOFT_PROJECT.Properties.Resources.resources
+C:\Users\USER\Desktop\New Esoft Project\ESOFT PROJECT\obj\x86\Debug\ESOFT PROJECT.csproj.GenerateResource.Cache
+C:\Users\USER\Desktop\New Esoft Project\ESOFT PROJECT\bin\Debug\Database1.mdf
+C:\Users\USER\Desktop\New Esoft Project\ESOFT PROJECT\bin\Debug\Database1_log.ldf
+C:\Users\USER\Desktop\New Esoft Project\ESOFT PROJECT\bin\Debug\ESOFT PROJECT.exe
+C:\Users\USER\Desktop\New Esoft Project\ESOFT PROJECT\bin\Debug\ESOFT PROJECT.pdb
+C:\Users\USER\Desktop\SALAES MANAGEMENT SYSTEM\New Esoft Project\ESOFT PROJECT\obj\x86\Debug\ESOFT PROJECT.exe
+C:\Users\USER\Desktop\SALAES MANAGEMENT SYSTEM\New Esoft Project\ESOFT PROJECT\obj\x86\Debug\ESOFT PROJECT.pdb
+C:\Users\USER\Desktop\SALAES MANAGEMENT SYSTEM\New Esoft Project\ESOFT PROJECT\bin\Debug\Database1.mdf
+C:\Users\USER\Desktop\SALAES MANAGEMENT SYSTEM\New Esoft Project\ESOFT PROJECT\bin\Debug\Database1_log.ldf
+C:\Users\USER\Desktop\SALAES MANAGEMENT SYSTEM\New Esoft Project\ESOFT PROJECT\bin\Debug\ESOFT PROJECT.exe
+C:\Users\USER\Desktop\SALAES MANAGEMENT SYSTEM\New Esoft Project\ESOFT PROJECT\bin\Debug\ESOFT PROJECT.pdb
+C:\Users\USER\Desktop\SALAES MANAGEMENT SYSTEM\New Esoft Project\ESOFT PROJECT\obj\x86\Debug\ESOFT PROJECT.csprojResolveAssemblyReference.cache
+C:\Users\USER\Desktop\SALAES MANAGEMENT SYSTEM\New Esoft Project\ESOFT PROJECT\obj\x86\Debug\ESOFT_PROJECT.frmmanagement.resources
+C:\Users\USER\Desktop\SALAES MANAGEMENT SYSTEM\New Esoft Project\ESOFT PROJECT\obj\x86\Debug\ESOFT_PROJECT.frmsearch.resources
+C:\Users\USER\Desktop\SALAES MANAGEMENT SYSTEM\New Esoft Project\ESOFT PROJECT\obj\x86\Debug\ESOFT_PROJECT.frmhomepage.resources
+C:\Users\USER\Desktop\SALAES MANAGEMENT SYSTEM\New Esoft Project\ESOFT PROJECT\obj\x86\Debug\ESOFT_PROJECT.frmStaffdetals_personal.resources
+C:\Users\USER\Desktop\SALAES MANAGEMENT SYSTEM\New Esoft Project\ESOFT PROJECT\obj\x86\Debug\ESOFT_PROJECT.frmlogin_cash.resources
+C:\Users\USER\Desktop\SALAES MANAGEMENT SYSTEM\New Esoft Project\ESOFT PROJECT\obj\x86\Debug\ESOFT_PROJECT.frmlogin_storekeeper.resources
+C:\Users\USER\Desktop\SALAES MANAGEMENT SYSTEM\New Esoft Project\ESOFT PROJECT\obj\x86\Debug\ESOFT_PROJECT.frmstaffdetails.resources
+C:\Users\USER\Desktop\SALAES MANAGEMENT SYSTEM\New Esoft Project\ESOFT PROJECT\obj\x86\Debug\ESOFT_PROJECT.frmloginpage.resources
+C:\Users\USER\Desktop\SALAES MANAGEMENT SYSTEM\New Esoft Project\ESOFT PROJECT\obj\x86\Debug\ESOFT_PROJECT.frmstoredetails.resources
+C:\Users\USER\Desktop\SALAES MANAGEMENT SYSTEM\New Esoft Project\ESOFT PROJECT\obj\x86\Debug\ESOFT_PROJECT.frmstore.resources
+C:\Users\USER\Desktop\SALAES MANAGEMENT SYSTEM\New Esoft Project\ESOFT PROJECT\obj\x86\Debug\ESOFT_PROJECT.frmstaffdetails_O.resources
+C:\Users\USER\Desktop\SALAES MANAGEMENT SYSTEM\New Esoft Project\ESOFT PROJECT\obj\x86\Debug\ESOFT_PROJECT.frmcashier.resources
+C:\Users\USER\Desktop\SALAES MANAGEMENT SYSTEM\New Esoft Project\ESOFT PROJECT\obj\x86\Debug\ESOFT_PROJECT.frmuser_selection.resources
+C:\Users\USER\Desktop\SALAES MANAGEMENT SYSTEM\New Esoft Project\ESOFT PROJECT\obj\x86\Debug\ESOFT_PROJECT.frmlogin.resources
+C:\Users\USER\Desktop\SALAES MANAGEMENT SYSTEM\New Esoft Project\ESOFT PROJECT\obj\x86\Debug\ESOFT_PROJECT.Properties.Resources.resources
+C:\Users\USER\Desktop\SALAES MANAGEMENT SYSTEM\New Esoft Project\ESOFT PROJECT\obj\x86\Debug\ESOFT PROJECT.csproj.GenerateResource.Cache
